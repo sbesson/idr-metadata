@@ -82,7 +82,7 @@
 	url = git://github.com/IDR/idr0069-caldera-perturbome
 [submodule "idr-utils"]
 	path = idr-utils
-	url = git://github.com/IDR/idr-utils
+	url = git://github.com/sbesson/idr-utils
 [submodule "idr0065-camsund-crispri"]
 	path = idr0065-camsund-crispri
 	url = git://github.com/IDR/idr0065-camsund-crispri
